@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170845057018",
+    "project_id": "brginboard",
+    "storage_bucket": "brginboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170845057018:android:1b302cf2bf247bbd91fe43",
+        "android_client_info": {
+          "package_name": "com.example.braggin_board"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170845057018-5sv913ju4d0rlrm81130439q3ni1894n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDY4DHn1rSVaDcB5zSiUI7NeblphyaAVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170845057018-5sv913ju4d0rlrm81130439q3ni1894n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
